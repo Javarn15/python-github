@@ -53,7 +53,7 @@ while True:
         print("Invalid input. Please enter a valid number.")
 
 
-
+#total fee for activity and meal 
 
 if chosen_meal == 1 or chosen_meal == 2 or chosen_meal == 3 or chosen_meal == 4: 
     meal_fee = 7
